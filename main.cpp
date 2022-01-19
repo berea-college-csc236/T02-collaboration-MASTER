@@ -1,4 +1,6 @@
-/*  Have yov ever heard of rubber duck debugging?
+/*  T02: Collaboration Teamwork
+
+    Have yov ever heard of rubber duck debugging?
     See https://en.wikipedia.org/wiki/Rubber_duck_debugging 
     Original code and ASCII art by Dr. Jan Pearce, Berea College
 
